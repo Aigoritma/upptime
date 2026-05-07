@@ -1,0 +1,34 @@
+# Change these first
+owner: Aigoritma # Your GitHub organization or username, where this repository lives
+repo: upptime # The name of this repository
+
+sites:
+  - name: Tightly Platform
+    url: https://app.tightly.io/
+  - name: Tightly API
+    url: https://api.app.tightly.io/health
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you do not have a domain
+  # Uncomment the `baseUrl` line if you do not have a custom domain and add your repo name there
+  cname: status.tightly.io
+  # baseUrl: /upptime
+  logoUrl: https://framerusercontent.com/images/WKFWyc85Pv2Rurrl4dtun22DF5E.svg
+  name: Tightly Status
+  introTitle: "Real-time status for the **Tightly** platform"
+  introMessage: This page provides live uptime and performance data for the **Tightly** platform — the AI-powered operating system for modern retail. We monitor our services around the clock so your team always has visibility into platform health. For questions, [contact us](https://tightly.io/demo) or visit [tightly.io](https://tightly.io).
+  navbar:
+    - title: Status
+      href: /
+    - title: Website
+      href: https://tightly.io
+    - title: Integrations
+      href: https://tightly.io/integrations
+    - title: Contact
+      href: https://tightly.io/demo
+
+schedule: "*/15 * * * *"
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
+
