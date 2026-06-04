@@ -1,7 +1,7 @@
 url: https://api.app.tightly.io/health
-status: up
-code: 200
-responseTime: 97
-lastUpdated: 2026-06-03T23:43:05.566Z
+status: down
+code: 403
+responseTime: 26
+lastUpdated: 2026-06-04T11:21:55.686Z
 startTime: 2026-05-07T12:48:14.447Z
 generator: Upptime <https://github.com/upptime/upptime>
