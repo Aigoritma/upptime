@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Tightly Platform
-    url: https://app.tightly.io/
+    url: https://app.tightly.io/robots.txt
   - name: Tightly API
     url: https://api.app.tightly.io/health
 
@@ -31,4 +31,3 @@ schedule: "*/15 * * * *"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
-
