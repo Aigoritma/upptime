@@ -4,19 +4,19 @@
     "url": "https://app.tightly.io/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/app.tightly.io.ico",
     "slug": "tightly-platform",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 186,
-    "timeDay": 67,
-    "timeWeek": 172,
-    "timeMonth": 195,
+    "timeDay": 143,
+    "timeWeek": 178,
+    "timeMonth": 196,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2026-08-08": 5
+      "2026-08-08": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api.app.tightly.io/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.app.tightly.io.ico",
     "slug": "tightly-api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 161,
-    "timeWeek": 158,
-    "timeMonth": 177,
+    "timeDay": 189,
+    "timeWeek": 166,
+    "timeMonth": 178,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2026-08-08": 0
+      "2026-08-08": 4
     }
   }
 ]
