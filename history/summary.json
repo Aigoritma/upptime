@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.tightly.io.ico",
     "slug": "tightly-platform",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 209,
-    "timeDay": 472,
-    "timeWeek": 206,
-    "timeMonth": 316,
+    "timeDay": 176,
+    "timeWeek": 215,
+    "timeMonth": 311,
     "timeYear": 209,
     "dailyMinutesDown": {
       "2026-08-08": 9
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 256,
-    "timeWeek": 212,
-    "timeMonth": 195,
+    "timeDay": 181,
+    "timeWeek": 206,
+    "timeMonth": 190,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2026-08-08": 4
